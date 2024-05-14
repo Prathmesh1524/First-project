@@ -3,7 +3,7 @@
     display: flex;
   
     top: 0px;
-    /* background-color: bisque; */
+  
 }
 .class ul li{
       position: sticky;
@@ -36,7 +36,7 @@ ul button{
     display: flex;
 }
 .p2{
-    /* border: 2px solid black; */
+  
     border-radius: 15px;
     background-color: rgb(206, 202, 132);
     height: 400px;
@@ -57,7 +57,7 @@ button:hover{
 }
  .class li:hover{
 text-decoration: underline;
-/* background-color: rgb(221, 221, 221); */
+
 border-radius: 5px;
 cursor: pointer;
 }
@@ -67,14 +67,14 @@ img{
     top: 30px;
     height: 300px;
     width: 300px;
-   /* border: 2px solid black; */
+
 }
 
 .login{
     top: 150px;
     position: absolute;
     left: 40%;
-    /* border: 2px solid red; */
+
     text-align: center;
     padding: 5px;
     height: 180px;
@@ -88,7 +88,7 @@ background-color: azure;
 }
 footer{
     background-color: rgb(158, 202, 202);
-    /* border: 2px solid red; */
+  
     position: relative;
     bottom: 0%;
 }
