@@ -1,0 +1,116 @@
+.class ul{
+    list-style: none; 
+    display: flex;
+  
+    top: 0px;
+    /* background-color: bisque; */
+}
+.class ul li{
+      position: sticky;
+}
+ul li{
+    border: 2px solid black;
+    border-radius: 9px;
+    padding: 3px;
+    margin: 5px;
+    background-color: rgb(214, 240, 249);
+}
+ul button{
+    padding: 5px;
+    position: relative;
+    margin-left: 78%;
+    border-radius:10px ;
+}
+.p1{
+    /* border: 2px solid brown; */
+    border-radius: 15px;
+    background-color: rgb(206, 202, 132);
+    height: 400px;
+    width: 460px;
+    margin: 25px;
+   
+    text-align: center;
+    padding: 25px;
+}
+.nd{
+    display: flex;
+}
+.p2{
+    /* border: 2px solid black; */
+    border-radius: 15px;
+    background-color: rgb(206, 202, 132);
+    height: 400px;
+    width: 460px;
+   position: static;
+    margin-left:50%;
+    margin-right: 25px;
+    padding: 25px
+
+    
+}
+button:hover{
+    text-decoration: underline;
+    background-color: rgb(253, 229, 221);
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+ .class li:hover{
+text-decoration: underline;
+/* background-color: rgb(221, 221, 221); */
+border-radius: 5px;
+cursor: pointer;
+}
+img{
+    position: relative;
+    left: 25%;
+    top: 30px;
+    height: 300px;
+    width: 300px;
+   /* border: 2px solid black; */
+}
+
+.login{
+    top: 150px;
+    position: absolute;
+    left: 40%;
+    /* border: 2px solid red; */
+    text-align: center;
+    padding: 5px;
+    height: 180px;
+    width: 350px;
+    font-weight: bold;
+background-color: azure;
+
+}
+.login ul{
+    list-style: none;
+}
+footer{
+    background-color: rgb(158, 202, 202);
+    /* border: 2px solid red; */
+    position: relative;
+    bottom: 0%;
+}
+p button{
+    border-radius: 7px;
+    
+}
+footer img{
+    height: 59px;
+    width: 107px;
+    position: relative;
+    bottom: 25px;
+    left: 106px;
+}
+body{
+    background-image: url(Earth\ Horizon\ Spacescape2819311837.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.login ul :hover{ 
+    background-color: rgb(203, 203, 203);
+    text-decoration: underline;
+    cursor: pointer;
+}
